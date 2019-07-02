@@ -6,3 +6,4 @@
 6. IR remote
 7. OBD connection
 8. Turtallsensor
+9. HUD
